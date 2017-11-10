@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCC_CARTORIO_WEB", "TCC_CARTORIO_WEB\TCC_CARTORIO_WEB.csproj", "{F4177F50-EA99-4AC4-B1FB-A6F44DB82052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCC.COMUM", "TCC.COMUM\TCC.COMUM.csproj", "{669FB5BB-E3BB-4A44-97AF-5F6FCE079D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4177F50-EA99-4AC4-B1FB-A6F44DB82052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4177F50-EA99-4AC4-B1FB-A6F44DB82052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4177F50-EA99-4AC4-B1FB-A6F44DB82052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4177F50-EA99-4AC4-B1FB-A6F44DB82052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669FB5BB-E3BB-4A44-97AF-5F6FCE079D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669FB5BB-E3BB-4A44-97AF-5F6FCE079D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669FB5BB-E3BB-4A44-97AF-5F6FCE079D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669FB5BB-E3BB-4A44-97AF-5F6FCE079D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
